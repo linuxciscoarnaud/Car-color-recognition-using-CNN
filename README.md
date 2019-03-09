@@ -6,4 +6,6 @@ Neural Network" written by Reza Fuad Rachmadi and I Ketut Eddy Purnama. The mode
 
 # Network Architecture
 
+![Untitled](https://user-images.githubusercontent.com/1300982/54075578-4bc6d300-42a1-11e9-891f-ed67a09e6f7e.png)
 
+To simplify, our convolutional network will try to recognize 5 colors (Black, Blue, Grey, Red and White)
