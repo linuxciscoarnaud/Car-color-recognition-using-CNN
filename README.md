@@ -18,3 +18,5 @@ just a small portion of the dataset was used (105 images for training and 45 ima
 # Results
 
 It took around 1h20min to train the network on my Acer ASPIRE 4750G laptop to produce the following results:
+
+![9](https://user-images.githubusercontent.com/1300982/54075626-e0313580-42a1-11e9-80bc-3b7788926419.png)
